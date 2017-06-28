@@ -14,4 +14,5 @@ Options:
 ```
 -csv       Return as comma separated values
 -first     Select first entry only
+-hostname  The hostname for the rancher metadata service (defaults to rancher-metadata)
 ```
